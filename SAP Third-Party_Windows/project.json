@@ -1,6 +1,6 @@
 {
-  "name": "SAP Material Master process_Windows",
-  "projectId": "ebf5819d-8d42-42c0-80c6-9e0db4479396",
+  "name": "SAP Third-Party_Windows",
+  "projectId": "0d764cc6-933d-4317-8669-1c33988a2104",
   "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
